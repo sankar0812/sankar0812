@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sankar0812
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning devops
+- 🌱 I’m currently working in Devops Engineer
 - 💞️ I’m looking to collaborate on IT industry
 - 📫 How to reach me ...
 
